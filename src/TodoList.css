@@ -1,0 +1,23 @@
+button {
+    background-color: #4185f2;
+    color: white; 
+    padding: auto;
+    border: none;
+    text-align: center;
+    margin-left: 12px ; 
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;    
+    border-radius: 12px;
+    transition-duration: 0.4s;
+
+}
+
+li {
+    list-style-type: none;    
+    color: white;       
+}
+
+
+
